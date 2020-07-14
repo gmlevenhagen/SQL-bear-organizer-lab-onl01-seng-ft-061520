@@ -1,4 +1,4 @@
-NSERT INTO bears (name, age, gender, color, temperament, alive) VALUES
+  INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES
  ('Mr. Chocolate', 10, 'M', 'brown', 'friendly', 1);
 
   INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES
@@ -20,4 +20,4 @@ NSERT INTO bears (name, age, gender, color, temperament, alive) VALUES
  ('Wendy', 1, 'F', 'red', 'happy', 1);
 
   INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES
- (NULL, 20, 'M', 'brown', 'angry', 0 ); 
+ (NULL, 20, 'M', 'brown', 'angry', 0 );
