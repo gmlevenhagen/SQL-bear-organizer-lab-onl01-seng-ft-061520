@@ -1,3 +1,9 @@
 CREATE TABLE bears (
-  id  , name, age, gender, color, temperament, alive
+  id INTEGER PRIMARY KEY ,
+  name TEXT ,
+  age INTEGER ,
+  gender CHARACTER(1) ,
+  color TEXT ,
+  temperament TEXT ,
+  alive INTEGER
 );
